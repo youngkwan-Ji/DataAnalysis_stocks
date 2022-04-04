@@ -1,0 +1,23 @@
+#pyCharm Env
+DataAnalysis/venv
+
+#intellJ Set
+DataAnalysis/.idea
+
+#MacOS
+.DS_Store
+
+#LocalFile
+DataAnalysis/CSV
+DataAnalysis/RealmDB
+
+#Documents
+Documents/
+
+#OAuth
+client_secrets.json
+settings.yaml
+credentials.json
+
+
+
